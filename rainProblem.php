@@ -28,5 +28,3 @@ foreach ($data as $int) {
     $dataWithRain[$i] = min($strongRight, $strongLeft);
     $i++;
 }
-
-var_dump($dataWithRain);
